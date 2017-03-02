@@ -1,0 +1,3 @@
+# chessOpening
+
+Liste d'ouvertures courantes au format csv.
